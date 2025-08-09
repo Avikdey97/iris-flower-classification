@@ -33,3 +33,9 @@ This project demonstrates a basic machine learning classification task using the
 - Try other classifiers like KNN or Random Forest
 - Deploy the model using Streamlit for interactive predictions
 - Add feature scaling and cross-validation
+
+![GitHub stars](https://img.shields.io/github/stars/Avikdey97/iris-flower-classification?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Avikdey97/iris-flower-classification?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Avikdey97/iris-flower-classification)
+![GitHub last commit](https://img.shields.io/github/last-commit/Avikdey97/iris-flower-classification)
+![GitHub license](https://img.shields.io/github/license/Avikdey97/iris-flower-classification)
